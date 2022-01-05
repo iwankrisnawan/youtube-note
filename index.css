@@ -1,0 +1,6 @@
+.checkpoint{
+  cursor: pointer;
+  color: blue;
+  /* background-color: black; */
+  border: solid 1px black;
+}
