@@ -93,10 +93,3 @@ document.addEventListener('click', event => {
     getTimerByText(str);
   }
 });
-
-let maman = 'asoajsiajsiaj      aisjaisjaisjs     ';
-let bagus = maman.split(' ');
-// console.log();
-
-bagus.forEach(element => {});
-console.log(bagus);
